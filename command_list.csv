@@ -1,0 +1,26 @@
+    1  git config --global user.name "Anastasiia Bezkorynna"
+    2  git config --global user.email "nastyabezkorinna1900@gmail.com"
+    3  git clone https://github.com/Bezkorynna/HW_10.git
+    4  cd HW_10
+    5  touch text_ignore.txt
+    6  git status text_ignore.txt
+    7  git status text_ignore.txt
+    8  git add .
+    9  git commit
+   10  touck main_test.txt
+   11  touch main_test.txt
+   12  git add .
+   13  git commit
+   14  git branch develop
+   15  git checkout develop
+   16  git sdd .
+   17  git add .
+   18  git commit
+   19  touch develop_test.txt
+   20  git add .
+   21  git commit
+   22  git checkout main
+   23  git merge develop
+   24  git log
+   25  hystory > command_list.csv
+   26  history > command_list.csv
